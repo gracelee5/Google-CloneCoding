@@ -1,5 +1,5 @@
 # Google-CloneCoding
-구글 클론 코딩
+    
 [사이트 링크](https://google-clonecoding-lkw.netlify.app/)
 
 구글 검색 화면 클론 코딩을 했다.   
